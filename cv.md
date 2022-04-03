@@ -6,7 +6,7 @@
 2. My email address: yanek.karpin@gmail.com
 3. My discord: blindEd#0444
 
-## Infornation about me
+## Infornmation about me
 
 I am studying at the Faculty of BSUIR with a degree in electronic marketing.
 My motto is **Carpe diem!**
@@ -18,10 +18,10 @@ Programming languages:
 2. JS(basic)
 
 English lvl:
-B1
+*B1
 
 ### Code example(JS)
-'''
+```
 function testElse(val) {
   let result = "";
 
@@ -37,4 +37,4 @@ function testElse(val) {
 }
 
 testElse(4);
-'''
+```
