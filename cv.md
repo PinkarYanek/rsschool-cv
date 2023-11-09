@@ -48,4 +48,4 @@ Enthusiastic and results-oriented professional with a strong background in [Your
 - Showcasing interests outside of work can provide a more holistic view of your personality.
 
 ## References
-Available upon request.
+Available upon request
